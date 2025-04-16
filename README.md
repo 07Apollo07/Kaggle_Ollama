@@ -3,7 +3,9 @@ title: Kaggle Ollama
 emoji: 🐨
 colorFrom: purple
 colorTo: red
-sdk: docker
+sdk: streamlit
+sdk_version: 1.25.0 # The latest supported version
+app_file: app.py
 pinned: false
 ---
 
